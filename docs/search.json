@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CV",
+    "section": "",
+    "text": "Sanford School of Public Policy\nDurham, NC\nMaster of Public Policy\nSeptember 2024 - June 2026\n\n\nHertie School Berlin\nBerlin, Germany\nMaster of Data Science for Public Policy\nSeptember 2024 - June 2026\n\n\nUniversity of Marburg\nMarburg, Germany\nBA in Political Science\nOctober 2021 - August 2024"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Sanford School of Public Policy\nDurham, NC\nMaster of Public Policy\nSeptember 2024 - June 2026\n\n\nHertie School Berlin\nBerlin, Germany\nMaster of Data Science for Public Policy\nSeptember 2024 - June 2026\n\n\nUniversity of Marburg\nMarburg, Germany\nBA in Political Science\nOctober 2021 - August 2024"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\n\n\n\n\n\n\n\nResearch Assistant social data science\nUniversity of Marburg\n2023 - ongoing"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nI work extensively with Julia, Python, and R across various projects, each tailored to specific use cases. My primary focus for data collection, web crawling, and scraping is Python, with some use of JavaScript for front-end automation. I prioritize reproducibility and containerization, utilizing Docker to ensure consistent environments across projects. Most of my documentation and writing is done in Quarto, which I also use to build websites, including this one."
+  },
+  {
+    "objectID": "current_work.html",
+    "href": "current_work.html",
+    "title": "Working Projects",
+    "section": "",
+    "text": "Here you’ll find a variety of projects I’m currently working on. While not all are strictly academic, they reflect my personal interests and passions that I pursue in my free time.\n \n\n\n\n\n\n\nHow politcal\n\n\n\n\nA prediction model that leverages real-time video data and advanced web scraping techniques to determine the political stance of a video using machine learning approaches. The model analyzes the content across a multi-axis spectrum to provide a nuanced classification of the video’s political orientation.\n\n\n\n\n\n\n\n\n\n\nHOWPopular — soon to be published\n\n\n\n\nA dashboard providing an overview of the popularity of German Bundestag members. It integrates data from Wikipedia, social media metrics, and other public sources to offer a comprehensive analysis of their public presence and influence"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Paul Elvis Otto",
+    "section": "",
+    "text": "Hello! I’m Paul Elvis Otto, a dual degree master’s student in Data Science at the Hertie School in Berlin and Public Policy at Duke University. Alongside my studies, I work as a Research Assistant in Social Data Science at the University of Marburg. I am passionate about leveraging data-driven insights to understand and address complex social and political phenomena. Through my work, I aim to bridge the gap between technology and society, contributing to meaningful change and use data for good.\nTo find out more about my work you can check out my Working Projects or take a look at my CV\nWanne get in touch? Shoot me an email!"
+  }
+]
